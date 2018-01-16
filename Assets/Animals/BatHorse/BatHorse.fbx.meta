@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: 8b66a5f0488ef4f168334eb9a5350e88
+timeCreated: 1515753783
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: AllAnim
+    100002: b_head
+    100004: b_head_nub
+    100006: b_Jaw
+    100008: b_Jaw_nub
+    100010: b_neck2
+    100012: //RootNode
+    100014: HorseBat_1
+    100016: Rig_BatChest
+    100018: Rig_BatFly_L_1
+    100020: Rig_BatFly_L_2
+    100022: Rig_BatFly_L_3
+    100024: Rig_BatFly_R_1
+    100026: Rig_BatFly_R_2
+    100028: Rig_BatFly_R_3
+    100030: Rig_BatHand_L_Collarbone
+    100032: Rig_BatHand_L_Digit11
+    100034: Rig_BatHand_L_Digit12
+    100036: Rig_BatHand_L_Digit31
+    100038: Rig_BatHand_L_Digit32
+    100040: Rig_BatHand_L_Digit33
+    100042: Rig_BatHand_L_Digit41
+    100044: Rig_BatHand_L_Digit42
+    100046: Rig_BatHand_L_Digit43
+    100048: Rig_BatHand_L_Digit51
+    100050: Rig_BatHand_L_Digit52
+    100052: Rig_BatHand_L_Digit53
+    100054: Rig_BatHand_L_ForeArm1
+    100056: Rig_BatHand_L_ForeArm2
+    100058: Rig_BatHand_L_Palm
+    100060: Rig_BatHand_L_UpArm
+    100062: Rig_BatHand_R_Collarbone
+    100064: Rig_BatHand_R_Digit11
+    100066: Rig_BatHand_R_Digit12
+    100068: Rig_BatHand_R_Digit21
+    100070: Rig_BatHand_R_Digit22
+    100072: Rig_BatHand_R_Digit23
+    100074: Rig_BatHand_R_Digit31
+    100076: Rig_BatHand_R_Digit32
+    100078: Rig_BatHand_R_Digit33
+    100080: Rig_BatHand_R_Digit41
+    100082: Rig_BatHand_R_Digit42
+    100084: Rig_BatHand_R_Digit43
+    100086: Rig_BatHand_R_ForeArm1
+    100088: Rig_BatHand_R_ForeArm2
+    100090: Rig_BatHand_R_Palm
+    100092: Rig_BatHand_R_UpArm
+    100094: Rig_BatHub
+    100096: Rig_BatLeg_L_Digit11
+    100098: Rig_BatLeg_L_Digit12
+    100100: Rig_BatLeg_L_Digit13
+    100102: Rig_BatLeg_L_Digit21
+    100104: Rig_BatLeg_L_Digit22
+    100106: Rig_BatLeg_L_Digit23
+    100108: Rig_BatLeg_L_Digit31
+    100110: Rig_BatLeg_L_Digit32
+    100112: Rig_BatLeg_L_Digit33
+    100114: Rig_BatLeg_L_Digit41
+    100116: Rig_BatLeg_L_Digit42
+    100118: Rig_BatLeg_L_Digit43
+    100120: Rig_BatLeg_L_Digit51
+    100122: Rig_BatLeg_L_Digit52
+    100124: Rig_BatLeg_L_Digit53
+    100126: Rig_BatLeg_L_Foot
+    100128: Rig_BatLeg_L_Shin
+    100130: Rig_BatLeg_L_Thigh
+    100132: Rig_BatLeg_R_Digit11
+    100134: Rig_BatLeg_R_Digit12
+    100136: Rig_BatLeg_R_Digit13
+    100138: Rig_BatLeg_R_Digit21
+    100140: Rig_BatLeg_R_Digit22
+    100142: Rig_BatLeg_R_Digit23
+    100144: Rig_BatLeg_R_Digit31
+    100146: Rig_BatLeg_R_Digit32
+    100148: Rig_BatLeg_R_Digit33
+    100150: Rig_BatLeg_R_Digit41
+    100152: Rig_BatLeg_R_Digit42
+    100154: Rig_BatLeg_R_Digit43
+    100156: Rig_BatLeg_R_Digit51
+    100158: Rig_BatLeg_R_Digit52
+    100160: Rig_BatLeg_R_Digit53
+    100162: Rig_BatLeg_R_Foot
+    100164: Rig_BatLeg_R_Shin
+    100166: Rig_BatLeg_R_Thigh
+    100168: Rig_BatNeck
+    100170: Rig_BatSpine1
+    100172: Rig_BatSpine2
+    100174: Rig_BatTail1
+    100176: Rig_BatTail2
+    400000: AllAnim
+    400002: b_head
+    400004: b_head_nub
+    400006: b_Jaw
+    400008: b_Jaw_nub
+    400010: b_neck2
+    400012: //RootNode
+    400014: HorseBat_1
+    400016: Rig_BatChest
+    400018: Rig_BatFly_L_1
+    400020: Rig_BatFly_L_2
+    400022: Rig_BatFly_L_3
+    400024: Rig_BatFly_R_1
+    400026: Rig_BatFly_R_2
+    400028: Rig_BatFly_R_3
+    400030: Rig_BatHand_L_Collarbone
+    400032: Rig_BatHand_L_Digit11
+    400034: Rig_BatHand_L_Digit12
+    400036: Rig_BatHand_L_Digit31
+    400038: Rig_BatHand_L_Digit32
+    400040: Rig_BatHand_L_Digit33
+    400042: Rig_BatHand_L_Digit41
+    400044: Rig_BatHand_L_Digit42
+    400046: Rig_BatHand_L_Digit43
+    400048: Rig_BatHand_L_Digit51
+    400050: Rig_BatHand_L_Digit52
+    400052: Rig_BatHand_L_Digit53
+    400054: Rig_BatHand_L_ForeArm1
+    400056: Rig_BatHand_L_ForeArm2
+    400058: Rig_BatHand_L_Palm
+    400060: Rig_BatHand_L_UpArm
+    400062: Rig_BatHand_R_Collarbone
+    400064: Rig_BatHand_R_Digit11
+    400066: Rig_BatHand_R_Digit12
+    400068: Rig_BatHand_R_Digit21
+    400070: Rig_BatHand_R_Digit22
+    400072: Rig_BatHand_R_Digit23
+    400074: Rig_BatHand_R_Digit31
+    400076: Rig_BatHand_R_Digit32
+    400078: Rig_BatHand_R_Digit33
+    400080: Rig_BatHand_R_Digit41
+    400082: Rig_BatHand_R_Digit42
+    400084: Rig_BatHand_R_Digit43
+    400086: Rig_BatHand_R_ForeArm1
+    400088: Rig_BatHand_R_ForeArm2
+    400090: Rig_BatHand_R_Palm
+    400092: Rig_BatHand_R_UpArm
+    400094: Rig_BatHub
+    400096: Rig_BatLeg_L_Digit11
+    400098: Rig_BatLeg_L_Digit12
+    400100: Rig_BatLeg_L_Digit13
+    400102: Rig_BatLeg_L_Digit21
+    400104: Rig_BatLeg_L_Digit22
+    400106: Rig_BatLeg_L_Digit23
+    400108: Rig_BatLeg_L_Digit31
+    400110: Rig_BatLeg_L_Digit32
+    400112: Rig_BatLeg_L_Digit33
+    400114: Rig_BatLeg_L_Digit41
+    400116: Rig_BatLeg_L_Digit42
+    400118: Rig_BatLeg_L_Digit43
+    400120: Rig_BatLeg_L_Digit51
+    400122: Rig_BatLeg_L_Digit52
+    400124: Rig_BatLeg_L_Digit53
+    400126: Rig_BatLeg_L_Foot
+    400128: Rig_BatLeg_L_Shin
+    400130: Rig_BatLeg_L_Thigh
+    400132: Rig_BatLeg_R_Digit11
+    400134: Rig_BatLeg_R_Digit12
+    400136: Rig_BatLeg_R_Digit13
+    400138: Rig_BatLeg_R_Digit21
+    400140: Rig_BatLeg_R_Digit22
+    400142: Rig_BatLeg_R_Digit23
+    400144: Rig_BatLeg_R_Digit31
+    400146: Rig_BatLeg_R_Digit32
+    400148: Rig_BatLeg_R_Digit33
+    400150: Rig_BatLeg_R_Digit41
+    400152: Rig_BatLeg_R_Digit42
+    400154: Rig_BatLeg_R_Digit43
+    400156: Rig_BatLeg_R_Digit51
+    400158: Rig_BatLeg_R_Digit52
+    400160: Rig_BatLeg_R_Digit53
+    400162: Rig_BatLeg_R_Foot
+    400164: Rig_BatLeg_R_Shin
+    400166: Rig_BatLeg_R_Thigh
+    400168: Rig_BatNeck
+    400170: Rig_BatSpine1
+    400172: Rig_BatSpine2
+    400174: Rig_BatTail1
+    400176: Rig_BatTail2
+    4300000: HorseBat_1
+    7400000: Attack 1
+    7400002: Attack 2
+    7400004: fly
+    7400006: spiral death
+    7400008: fast fly
+    7400010: hit1
+    7400012: hit2
+    7400014: slow fly
+    9500000: //RootNode
+    13700000: HorseBat_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack 1
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack 2
+      takeName: C4D Animation Take
+      firstFrame: 30
+      lastFrame: 68
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fly
+      takeName: C4D Animation Take
+      firstFrame: 75
+      lastFrame: 95
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: spiral death
+      takeName: C4D Animation Take
+      firstFrame: 100
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fast fly
+      takeName: C4D Animation Take
+      firstFrame: 183
+      lastFrame: 196
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit1
+      takeName: C4D Animation Take
+      firstFrame: 203
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit2
+      takeName: C4D Animation Take
+      firstFrame: 225
+      lastFrame: 245
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: slow fly
+      takeName: C4D Animation Take
+      firstFrame: 250
+      lastFrame: 289
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
